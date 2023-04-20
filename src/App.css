@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+appbar"{
+
+}
+.Appbar{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.MuiTypography-root {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
